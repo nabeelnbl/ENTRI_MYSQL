@@ -1,0 +1,12 @@
+OrderID,CustomerName,Product,Quantity,Price,OrderDate,Region,PaymentMode,Discount
+1001,John Smith,Laptop,2,65000,05-01-2023,North,Cash,5000
+1002,NULL,Mobile,1,20000,07-01-2023,South,UPI,0
+1003,Priya Sharma,Tablet,3,18000,01-02-2023,East,Credit Card,1500
+1004,rahul kumar,Laptop,2,64000,10-02-2023,West,Cash,4000
+1005,Maria Lopez,Mobile,NULL,21000,15-02-2023,South,Cash,0
+1006,John Smith,Laptop,2,65000,20-02-2023,North,NULL,5000
+1007,Anil Kumar,Tablet,1,17500,01-03-2023,East,Credit Card,0
+1008,NULL,Laptop,2,65000,07-03-2023,North,UPI,5000
+1009,Priya Sharma,Mobile,1,20000,11-03-2023,South,Debit Card,1000
+1010,John Smith,Laptop,2,65000,15-03-2023,North,Cash,5000
+1010,John Smith,Laptop,2,65000,15-03-2023,North,Cash,5000
